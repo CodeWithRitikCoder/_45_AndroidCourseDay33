@@ -13,13 +13,24 @@ Day-33 of Android Course:- BMI Calculator
 <table border="5px" style="border-collapse: collapse;">
   <tr>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/_44_AndroidCourseDay32/blob/master/app/src/main/res/drawable/screen_shot_4.png" alt="ScreenShort 1 of Application" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/_45_AndroidCourseDay32/blob/master/app/src/main/res/drawable/screen_shot_1.png" alt="ScreenShort 1 of Application" height="500" width="250" />
     </td>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/_44_AndroidCourseDay32/blob/master/app/src/main/res/drawable/screen_shot_5.png" alt="ScreenShort 2 of Application" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/_45_AndroidCourseDay32/blob/master/app/src/main/res/drawable/screen_shot_2.png" alt="ScreenShort 2 of Application" height="500" width="250" />
     </td>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/_44_AndroidCourseDay32/blob/master/app/src/main/res/drawable/screen_shot_6.png" alt="ScreenShort 3 of Application" height="500" width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/_45_AndroidCourseDay32/blob/master/app/src/main/res/drawable/screen_shot_3.png" alt="ScreenShort 3 of Application" height="500" width="250" />
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <img align="center" src="https://github.com/CodeWithRitikCoder/_45_AndroidCourseDay32/blob/master/app/src/main/res/drawable/screen_shot_4.png" alt="ScreenShort 1 of Application" height="500" width="250" />
+    </td>
+    <td>
+      <img align="center" src="https://github.com/CodeWithRitikCoder/_45_AndroidCourseDay32/blob/master/app/src/main/res/drawable/screen_shot_5.png" alt="ScreenShort 2 of Application" height="500" width="250" />
+    </td>
+    <td>
+      <img align="center" src="https://github.com/CodeWithRitikCoder/_45_AndroidCourseDay32/blob/master/app/src/main/res/drawable/screen_shot_6.png" alt="ScreenShort 3 of Application" height="500" width="250" />
     </td>
   </tr>
 </table>
